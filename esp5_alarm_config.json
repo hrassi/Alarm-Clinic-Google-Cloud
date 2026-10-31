@@ -1,0 +1,6 @@
+{
+  "device": "ESP5",
+  "mode": "auto",
+  "arm_start": 19,
+  "arm_end": 9
+}
